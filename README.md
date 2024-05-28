@@ -1,2 +1,2 @@
 # Loja
- projeto de loja em php
+ Projeto de loja em php
